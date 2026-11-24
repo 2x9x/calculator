@@ -2,6 +2,8 @@ __pycache__/
 *.pyc
 .env
 .Rhistory
+.venv/
+.pytest_cache/
 
 
 keep-demo.log
